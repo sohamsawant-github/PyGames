@@ -6,3 +6,9 @@ This is a series of python games.
 
   
   • Pong Game
+  • Number Guessing
+  • TicTacToe
+  • Rock Paper Scissors
+  • Snake Game
+  • Hangman Game
+  • FlappyBird Game
