@@ -1,5 +1,5 @@
 # PyGames
-This is a series of beginner's python games.
+This is a series of python games.
 
   • PyGame 
  
