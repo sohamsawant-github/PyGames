@@ -1,3 +1,2 @@
-# PyGame
-
-This a objective based game made using python for beginner's.
+# PyGames
+This is a series of beginner's python games.
