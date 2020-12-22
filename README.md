@@ -1,40 +1,40 @@
 # PyGames
 This is a series of python games.
 
-  • PyGame 
+      • PyGame 
  
 
   
-  • Pong Game
+      • Pong Game
   
   
   
-  • Number Guessing
-  
-  
-  
-  
-  • TicTacToe
+      • Number Guessing
   
   
   
   
-  
-  • Rock Paper Scissors
+      • TicTacToe
   
   
   
   
   
-  • Snake Game
-  
-  
-  
-  
-  • Hangman Game
+      • Rock Paper Scissors
   
   
   
   
   
-  • FlappyBird Game
+      • Snake Game
+  
+  
+  
+  
+      • Hangman Game
+  
+  
+  
+  
+  
+      • FlappyBird Game
